@@ -1,4 +1,4 @@
-#Very Basic and Simple KBC
+# Basic and Simple KBC
 print("Welcome to KBC") 
 print("\n Please Select Your Choice From Following.")
 print("1.Easy")
